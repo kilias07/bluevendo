@@ -1,0 +1,204 @@
+{
+  "trips": [
+    {
+      "country": "Egypt",
+      "hotelName": "Nubia Aqua Beach Resort",
+      "date": "2023-01-01",
+      "stars": 5,
+      "image": "https://images.pexels.com/photos/262780/pexels-photo-262780.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "price": {
+        "normal": 1000,
+        "lastMinute": 500
+      }
+    },
+    {
+      "country": "Egypt",
+      "hotelName": "Nile Cruise Adventure",
+      "date": "2023-05-15",
+      "stars": 4,
+      "image": "https://images.pexels.com/photos/262780/pexels-photo-262780.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "price": {
+        "normal": 1500,
+        "lastMinute": 1000
+      }
+    },
+    {
+      "country": "Egypt",
+      "hotelName": "Giza Pyramid View Hotel",
+      "date": "2023-07-10",
+      "stars": 3,
+      "image": "https://images.pexels.com/photos/262780/pexels-photo-262780.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "price": {
+        "normal": 1200,
+        "lastMinute": 800
+      }
+    },
+    {
+      "country": "Egypt",
+      "hotelName": "Luxor Temple Retreat",
+      "date": "2023-09-05",
+      "stars": 5,
+      "image": "https://images.pexels.com/photos/262780/pexels-photo-262780.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "price": {
+        "normal": 900,
+        "lastMinute": 600
+      }
+    },
+    {
+      "country": "Egypt",
+      "hotelName": "Nile Cruise Adventure",
+      "date": "2023-05-15",
+      "stars": 2,
+      "image": "https://images.pexels.com/photos/262780/pexels-photo-262780.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "price": {
+        "normal": 1500,
+        "lastMinute": 1000
+      }
+    },
+    {
+      "country": "Egypt",
+      "hotelName": "Aswan Oasis Retreat",
+      "date": "2023-11-15",
+      "stars": 5,
+      "image": "https://images.pexels.com/photos/262780/pexels-photo-262780.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "price": {
+        "normal": 1100,
+        "lastMinute": 700
+      }
+    },
+    {
+      "country": "Bulgaria",
+      "hotelName": "Best Hotels Sunny Beach",
+      "date": "2023-01-01",
+      "stars": 4,
+      "image": "https://images.pexels.com/photos/1624216/pexels-photo-1624216.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "price": {
+        "normal": 1000,
+        "lastMinute": 500
+      }
+    },
+    {
+      "country": "Bulgaria",
+      "hotelName": "Pirin Mountain Retreat",
+      "date": "2023-07-15",
+      "stars": 5,
+      "image": "https://images.pexels.com/photos/1624216/pexels-photo-1624216.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "price": {
+        "normal": 1500,
+        "lastMinute": 1000
+      }
+    },
+    {
+      "country": "Bulgaria",
+      "hotelName": "Sofia City Center Hotel",
+      "date": "2023-09-10",
+      "stars": 4,
+      "image": "https://images.pexels.com/photos/1624216/pexels-photo-1624216.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "price": {
+        "normal": 1200,
+        "lastMinute": 800
+      }
+    },
+    {
+      "country": "Bulgaria",
+      "hotelName": "Black Sea Coast Resort",
+      "date": "2023-06-20",
+      "stars": 4,
+      "image": "https://images.pexels.com/photos/1624216/pexels-photo-1624216.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "price": {
+        "normal": 900,
+        "lastMinute": 600
+      }
+    },
+    {
+      "country": "Bulgaria",
+      "hotelName": "Plovdiv Historic Boutique Hotel",
+      "date": "2023-11-05",
+      "stars": 4,
+      "image": "https://images.pexels.com/photos/1624216/pexels-photo-1624216.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "price": {
+        "normal": 800,
+        "lastMinute": 500
+      }
+    },
+    {
+      "country": "Bulgaria",
+      "hotelName": "Plovdiv Historic Boutique Hotel",
+      "date": "2023-11-05",
+      "stars": 4,
+      "image": "https://images.pexels.com/photos/1624216/pexels-photo-1624216.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "price": {
+        "normal": 800,
+        "lastMinute": 500
+      }
+    },
+    {
+      "country": "Italy",
+      "hotelName": "Rome City Center Hotel",
+      "date": "2023-07-15",
+      "stars": 5,
+      "image": "https://images.pexels.com/photos/2064827/pexels-photo-2064827.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "price": {
+        "normal": 1500,
+        "lastMinute": 1000
+      }
+    },
+    {
+      "country": "Italy",
+      "hotelName": "Tuscany Vineyard Retreat",
+      "date": "2023-09-10",
+      "stars": 4,
+      "image": "https://images.pexels.com/photos/2064827/pexels-photo-2064827.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "price": {
+        "normal": 1200,
+        "lastMinute": 800
+      }
+    },
+    {
+      "country": "Italy",
+      "hotelName": "Amalfi Coast Beach Resort",
+      "date": "2023-06-20",
+      "stars": 4,
+      "image": "https://images.pexels.com/photos/2064827/pexels-photo-2064827.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "price": {
+        "normal": 900,
+        "lastMinute": 600
+      }
+    },
+    {
+      "country": "Italy",
+      "hotelName": "Venice Canal View Hotel",
+      "date": "2023-11-05",
+      "stars": 4,
+      "image": "https://images.pexels.com/photos/2064827/pexels-photo-2064827.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "price": {
+        "normal": 800,
+        "lastMinute": 500
+      }
+    },
+    {
+      "country": "Italy",
+      "hotelName": "Florence Historic Boutique Hotel",
+      "date": "2023-12-20",
+      "stars": 4,
+      "image": "https://images.pexels.com/photos/2064827/pexels-photo-2064827.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "price": {
+        "normal": 1100,
+        "lastMinute": 700
+      }
+    },
+    {
+      "country": "Italy",
+      "hotelName": "Milan Luxury Business Hotel",
+      "date": "2023-09-15",
+      "stars": 5,
+      "image": "https://images.pexels.com/photos/2064827/pexels-photo-2064827.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "price": {
+        "normal": 1800,
+        "lastMinute": 1200
+      }
+    }
+
+  ]
+}
+
