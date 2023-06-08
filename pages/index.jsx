@@ -1,7 +1,8 @@
 import styled from "styled-components";
 import {Title} from "./components/typo";
-import {Button} from "./components/ui/button";
+import {Button, MobileButton} from "./components/ui/button";
 import Cards from "./components/trip/cards";
+import {useWindowSize} from "usehooks-ts";
 
 
 export const Wrapper = styled.section`
@@ -14,6 +15,7 @@ export const TripHeader = styled.div`
 display: flex;
 justify-content: space-between;
 align-items: center;
+  margin: 48px 0;
 `;
 
 
@@ -34,13 +36,16 @@ export async function getStaticProps() {
 }
 
 export default function Home({trips}) {
+    const {width} = useWindowSize();
     return (
         <Wrapper>
             <TripHeader>
                 <Title>Big saving on all inclusive trips</Title>
-                <Button>See all offers</Button>
+                {width > 768 && <Button>See all offers</Button>}
             </TripHeader>
             <Cards trips={trips}/>
+            {width < 768 && <MobileButton>See all offers</MobileButton>}
+
         </Wrapper>
     )
 }

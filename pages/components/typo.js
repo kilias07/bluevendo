@@ -5,8 +5,11 @@ export const Title = styled.h1`
   font-size: 32px;
   font-weight: 700;
   line-height: 39px;
-  text-align: left;
+  text-align: center;
   margin-block: 0;
+  @media (max-width: 768px) {
+    margin: 0 auto;
+  }
 `;
 
 export const Subtitle = styled.h2`
@@ -24,7 +27,20 @@ export const Text = styled.p`
   font-size: 14px;
   line-height: 17px;
   margin-block: 0;
+  text-decoration: none;
 `;
+
+export const TextLink = styled.span`
+  color: var(--text-blue-color);
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 17px;
+  margin-block: 0;
+  text-decoration: none;
+`;
+
 
 export const Caption = styled.h3`
   font-family: "inter", sans-serif;

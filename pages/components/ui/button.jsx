@@ -12,3 +12,10 @@ export const Button = styled.button`
   font-family: "inter", sans-serif;
   line-height: 19.36px;
 `;
+
+export const MobileButton = styled(Button)`
+  width: 384px;
+  text-align: center;
+  margin: 0 auto 15px auto;
+  display: block;
+`;

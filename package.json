@@ -12,7 +12,9 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-icons": "^4.9.0",
-    "styled-components": "^5.3.11"
+    "styled-components": "^5.3.11",
+    "swiper": "^9.3.2",
+    "usehooks-ts": "^2.9.1"
   },
   "resolutions": {
     "styled-components": "^5"
